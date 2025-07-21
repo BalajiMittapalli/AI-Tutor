@@ -1,0 +1,20 @@
+name: offline_ai_tutor
+description: A placeholder Flutter UI for the Offline AI Tutor.
+publish_to: "none"
+version: 0.1.0
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # For future llama.cpp FFI integration:
+  ffi: ^2.0.1
+  http: ^0.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
