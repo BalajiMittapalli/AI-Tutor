@@ -1,18 +1,8 @@
 # 📦 GyanaSetu(Offline AI Tutor) — Submission Instructions
 
-Thank you for reviewing this project. This submission includes all required components in a structured format. Please follow the instructions below to navigate and run the project.
 
----
 
-## 🗂 Submission Folder Overview
 
-ai-tutor-submission.zip
-├── Instructions/            ← 📄 This file
-├── Offline_AI_Tutor.pptx    ← 🎯 Project presentation (10 slides)
-├── Code/                    ← 💻 Source code (fine-tuning, inference, setup)
-├── Flutter_UI_Scaffold/     ← 📱 Mobile app UI scaffold (Flutter)
-├── Demo/                    ← 🎥 Demo video
-└── Resources/               ← 📚 Hugging Face links, model/dataset cards, screenshots
 
 ---
 
@@ -28,16 +18,7 @@ That file explains:
 
 ---
 
-## 📽 2. Demo Video
-
-📂 Location: `Demo/demo_video.mp4`
-
-- Shows the model running fully offline using `llama.cpp`
-- Demonstrates both REPL and web chat interface
-
----
-
-## 💻 3. Source Code
+## 💻 2. Source Code
 
 📂 Location: `Code/`
 
@@ -51,7 +32,7 @@ Includes:
 
 ---
 
-## 📱 4. Flutter Mobile App UI
+## 📱 2. Flutter Mobile App UI
 
 📂 Location: `Flutter_UI_Scaffold/`
 
