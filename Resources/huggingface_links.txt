@@ -1,0 +1,17 @@
+# Hugging Face Resources
+
+Model Repository:
+https://huggingface.co/BalajiMittapalli/gemma-3n-finetune-edu
+
+Includes:
+- Fine-tuned Gemma-3N-34B model
+- Quantized GGUF file: gemma34b-Q4_K_M.gguf
+- LoRA adapter: lora_adapter.bin
+- Tokenizer: tokenizer.json
+
+Educational Dataset:
+https://huggingface.co/BalajiMittapalli/gemma-3n-finetune-edu/blob/main/sharegpt_dataset.jsonl
+
+Includes:
+- JSONL training samples
+- Text-based Q&A for fine-tuning
